@@ -1,112 +1,72 @@
-<h1 align="center">Hi there, I'm Flavia 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/flavia-gaglio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2A3D,100:0A2A3D&height=180&section=header&text=Flavia%20Gaglio&fontSize=46&fontColor=F6AE31&fontAlignY=40&desc=Where%20signals%20reveal%20the%20truth.&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%" alt="Flavia Gaglio" />
+
+<p>
+  <a href="https://flaviagaglio.github.io"><img src="https://img.shields.io/badge/Portfolio-0A2A3D?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/flaviagaglio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@flaviagaglio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:flavia.gaglio@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+</div>
 
-## 👩‍💻 About Me
+<br/>
 
-Graduate in Computer Engineering, currently pursuing a Master's in **Artificial Intelligence and Cybersecurity**.  
-My background in engineering taught me how to build systems and think about security. It also opened a door I didn't expect: wondering how tech and creativity can actually live together.
+## About
 
-- 🎓 **Education**:  
-  - B.Sc. in Computer Engineering  
-  - M.Sc. in Artificial Intelligence and Cybersecurity (in progress)
+I like building things that work and understanding exactly why they might not.
 
-- 💻 **Tech interests**: AI/ML, Biometrics, Cybersecurity, Software Development  
-- 🎵 **Music**: Multi-instrumentalist (guitar, piano, synth, bass) & music creator  
-- 🎧 **Production tools**: Logic Pro, Luna (Universal Audio), UA Plugins   
-- 🌱 **Currently exploring**: Advanced ML techniques, biometric authentication systems  
+Computer Engineering graduate, currently pursuing a **Master's in Artificial Intelligence and Cybersecurity**. My academic path gave me a strong foundation in problem-solving, system design and security, with a particular focus on machine learning and biometric systems — both building them and studying how they can be attacked. Right now my research looks at **anti-spoofing in biometric authentication** (perspiration patterns in fingerprints + facial rPPG) for my Master's thesis.
 
-> *Coding and composing both ask for the same kind of thinking: logic, intuition, and a lot of refining.*
+When I'm not at a keyboard writing code, I'm usually at one making music — guitar, piano, bass and synth.
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Education
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+| | | |
+|---|---|---|
+| `01` | **B.Eng, Computer Engineering** | Algorithms, systems, databases and networking, with a thesis on vulnerability analysis in biometric systems. |
+| `02` | **M.Sc, Artificial Intelligence & Cybersecurity** *(ongoing)* | Deepening machine learning, biometrics and security research — model design, attack surfaces, defensive countermeasures. |
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/UNIX-5391FE?style=for-the-badge&logo=unix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Office-2B579A?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</p>
+<br/>
 
-### Specializations
-<p>
-  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Biometrics-4CAF50?style=for-the-badge&logo=fingerprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000080?style=for-the-badge&logo=security&logoColor=white" />
-</p>
+## Skills
 
----
+**AI, Machine Learning & Security** · Machine Learning · Cybersecurity · Biometrics
 
-## 🎛️ Music Production
+**Programming & Systems** · Python · C · Java · SQL · Git · TypeScript · UNIX / Linux
 
-<p>
-  <img src="https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Luna_UA-00B4AB?style=for-the-badge&logo=universal-audio&logoColor=white" />
-  <img src="https://img.shields.io/badge/UA_Plugins-663399?style=for-the-badge&logo=universal-audio&logoColor=white" />
-</p>
+**Music Production** · Logic Pro · Luna (Universal Audio) · UA Plugins — guitar, piano, synth, bass
 
-**Instruments:** Guitar, Piano, Synth, Bass  
-**Genres:** Experimental, Ambient, Blues, World-infused melodies
+<br/>
 
----
+## Work
 
-## 📌 Featured Projects
+Real projects, write-ups and live demos — not a placeholder table — live on my portfolio:
 
-Here are some of my best works – feel free to explore and contact me for details!
+<div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Handwriting Analysis for Classification**](#) | Predictive models to classify handwriting patterns | Python, Neural Networks |
-| [**Personality Trait Classification via Image Analysis**](#) | ML models to predict traits from image data | Python, scikit-learn |
-| [**Male Infertility Prediction**](#) | Decision Trees, MLP, SVM for medical dataset | Python, ML |
-| [**Facial Authentication System**](#) | MTCNN + InceptionResNetV1 for face recognition | Python, Deep Learning |
-| [**Vulnerability Analysis in Biometric Systems**](#) | Bachelor's thesis on attack methods & countermeasures | Research |
-| [**Emotion Detection in Italian Text**](#) | BERT-based transformer (emotivITA) | Python, Transformers |
-| [**Vinyl Lottery – Client-Server System**](#) | Concurrent C app on Linux with TCP/IP, threads | C, System V |
-| [**Tic Tac Toe – Client-Server Game**](#) | Networked game in Java | Java, OOP |
-| [**Wireless Sensor Network for Dehumidifier Control**](#) | MATLAB/TrueTime simulation with fuzzy logic | MATLAB |
-| [**Airport Flight Database**](#) | SQL database design & implementation | SQL |
-| [**Variance Test: Theory and Applications**](#) | MATLAB project on variance testing | MATLAB |
-| [**Numerical Integration: Quadrature Methods**](#) | Study on quadrature formulas | MATLAB |
+<a href="https://flaviagaglio.github.io/projects"><img src="https://img.shields.io/badge/View my work-F6AE31?style=for-the-badge&logoColor=0A2A3D&labelColor=0A2A3D" alt="View my work"/></a>
 
-> 🔍 *Most projects are private or academic. [Contact me](#contact) for more information.*
+</div>
 
----
+<br/>
 
+## Contact
 
-## 📫 Contact Me
+Open to new projects and opportunities.
 
-<p align="center">
-  <a href="mailto:flavia.gaglio@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/flavia-gaglio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<div align="center">
+  <a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/flaviagaglio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@flaviagaglio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flaviagaglio&style=flat-square&color=4ecdc4" alt="Profile views" />
-</p>
+<div align="center">
+  <sub><img src="https://komarev.com/ghpvc/?username=flaviagaglio&style=flat-square&color=f6ae31" alt="Profile views" /></sub>
+</div>
