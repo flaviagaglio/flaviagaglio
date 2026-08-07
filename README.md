@@ -129,3 +129,8 @@ Full write-ups, architecture notes and honest limits for every project are on th
 <a href="https://flaviagaglio.github.io"><img src="img/footer.png" width="100%" alt="" /></a>
 
 </div>
+
+<img src="https://img.shields.io/badge/MAP_TEST-E35A2B?style=for-the-badge" usemap="#testmap" width="200" height="40">
+<map name="testmap">
+  <area shape="rect" coords="0,0,200,40" href="https://flaviagaglio.github.io" alt="test link">
+</map>
