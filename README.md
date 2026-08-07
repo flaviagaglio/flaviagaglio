@@ -1,91 +1,10 @@
 <div align="center">
 
-<a href="https://flaviagaglio.github.io"><img src="img/header.png" width="100%" alt="Flavia Gaglio — Computer Engineering Graduate, M.Sc. Student AI & Cybersecurity" /></a>
-<a href="https://flaviagaglio.github.io"><img src="img/body-panel.png" width="100%" alt="About: builds machine learning systems and studies how they get attacked, with a focus on biometrics. Education: M.Sc. Artificial Intelligence & Cybersecurity (in progress), B.Eng. Computer Engineering (completed). Skills: Machine Learning, Cybersecurity, Biometrics, Python, C, Java, SQL, TypeScript, Git, UNIX/Linux, Logic Pro, Luna, UA Plugins" /></a>
+<a href="https://flaviagaglio.github.io/projects"><img src="img/mega-all.png" width="100%" alt="Flavia Gaglio — Computer Engineering Graduate, M.Sc. Student AI & Cybersecurity. About, Education, Skills and Featured Projects: Cartographer, Kepler0, Male Infertility Prediction, Emotion Detection in Italian Text, Keys, Mode Finder, Passwords. Click through to the portfolio for demos, code and write-ups." /></a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=1000&color=E35A2B&background=000000&center=true&vCenter=true&width=1152&height=44&lines=%3E+finds+the+exploit.+also+finds+the+key." alt="finds the exploit. also finds the key." width="1160" />
-<img src="img/label-projects.png" height="50" alt="04 / Featured Projects" />
 
-</div>
-
-<br/>
-
-Full write-ups, architecture notes and honest limits for every project are on the portfolio. These seven are the ones I'd point you to first.
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<a href="https://flaviagaglio.github.io/cartographer/"><img src="img/proj-cartographer.png" width="100%" alt="Cartographer" /></a>
 <br/><br/>
-<a href="https://flaviagaglio.github.io/cartographer/"><img src="https://img.shields.io/badge/LIVE_DEMO-E35A2B?style=for-the-badge&logoColor=000000" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/cartographer"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://flaviagaglio.github.io/kepler0/"><img src="img/proj-kepler0.png" width="100%" alt="Kepler0" /></a>
-<br/><br/>
-<a href="https://flaviagaglio.github.io/kepler0/"><img src="https://img.shields.io/badge/LIVE_DEMO-E35A2B?style=for-the-badge&logoColor=000000" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/kepler0"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/flaviagaglio/male-infertility-prediction-ml"><img src="img/proj-infertility.png" width="100%" alt="Male Infertility Prediction" /></a>
-<br/><br/>
-<a href="https://github.com/flaviagaglio/male-infertility-prediction-ml"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/flaviagaglio/EmotivITA-BERT-VAD"><img src="img/proj-nlp.png" width="100%" alt="Emotion Detection in Italian Text" /></a>
-<br/><br/>
-<a href="https://github.com/flaviagaglio/EmotivITA-BERT-VAD"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://flaviagaglio.github.io/keys/"><img src="img/proj-keys.png" width="100%" alt="Keys" /></a>
-<br/><br/>
-<a href="https://flaviagaglio.github.io/keys/"><img src="https://img.shields.io/badge/LIVE_DEMO-E35A2B?style=for-the-badge&logoColor=000000" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/keys"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://flaviagaglio.github.io/mode-finder/"><img src="img/proj-mode-finder.png" width="100%" alt="Mode Finder" /></a>
-<br/><br/>
-<a href="https://flaviagaglio.github.io/mode-finder/"><img src="https://img.shields.io/badge/LIVE_DEMO-E35A2B?style=for-the-badge&logoColor=000000" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/mode-finder"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://flaviagaglio.github.io/passwords/"><img src="img/proj-passwords.png" width="100%" alt="Passwords" /></a>
-<br/><br/>
-<a href="https://flaviagaglio.github.io/passwords/"><img src="https://img.shields.io/badge/LIVE_DEMO-E35A2B?style=for-the-badge&logoColor=000000" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/passwords"><img src="https://img.shields.io/badge/CODE-1A1A1A?style=for-the-badge&logo=github&logoColor=E35A2B" alt="Code"/></a>
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://flaviagaglio.github.io/projects"><img src="https://img.shields.io/badge/SEE_ALL_PROJECTS_→-1A1A1A?style=for-the-badge&logoColor=E35A2B" alt="See all projects"/></a>
-</p>
-
-<br/>
-
-<div align="center">
 
 <img src="img/label-activity.png" height="50" alt="05 / GitHub Activity" />
 
@@ -129,8 +48,3 @@ Full write-ups, architecture notes and honest limits for every project are on th
 <a href="https://flaviagaglio.github.io"><img src="img/footer.png" width="100%" alt="" /></a>
 
 </div>
-
-<img src="https://img.shields.io/badge/MAP_TEST-E35A2B?style=for-the-badge" usemap="#testmap" width="200" height="40">
-<map name="testmap">
-  <area shape="rect" coords="0,0,200,40" href="https://flaviagaglio.github.io" alt="test link">
-</map>
