@@ -229,3 +229,11 @@ Password generator built on a cryptographically secure RNG (Web Crypto API with 
 
 <img src="img/footer.png" width="100%" alt="" />
 
+
+<table>
+<tr><td>
+
+PLAIN TABLE BORDER TEST — does this cell get any visible border/grid from GitHub's own default CSS?
+
+</td></tr>
+</table>
