@@ -46,13 +46,138 @@ Algorithms, systems, databases and networking, alongside a thesis on vulnerabili
 **Programming & Systems** — Python · C · Java · SQL · Git · TypeScript · UNIX / Linux
 **Music Production** — Logic Pro · Luna (Universal Audio) · UA Plugins
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,typescript,linux&theme=dark" alt="Python, C, Java, Git, TypeScript, Linux" />
+</p>
+
 <br/>
 
-### Work
+### Featured Projects
 
-Real projects, write-ups and live demos — full detail on the portfolio.
+Full write-ups, architecture notes and honest limits for every project are on the portfolio. These five have a live demo you can try right now:
 
-**[→ flaviagaglio.github.io](https://flaviagaglio.github.io/projects)**
+<table width="100%">
+
+<tr>
+<td width="45%" valign="middle">
+
+**🗺️ Cartographer**
+Client-side Music Information Retrieval tool — extracts timbral features (MFCC, centroid, energy) from dropped audio files and projects them into a 2D acoustic map via UMAP, so similar sounds cluster together. No server, no upload: decoding, analysis and projection all run in the browser.
+
+`JavaScript` `Web Audio API` `UMAP`
+
+<p>
+  <a href="https://flaviagaglio.github.io/cartographer/"><img src="https://img.shields.io/badge/Live_Demo-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+  <a href="https://github.com/flaviagaglio/cartographer"><img src="https://img.shields.io/badge/Code-0A3A56?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
+</p>
+
+</td>
+<td width="55%">
+<a href="https://flaviagaglio.github.io/cartographer/"><img src="img/cartographer.png" width="100%" style="border-radius:8px" alt="Cartographer screenshot" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+<a href="https://flaviagaglio.github.io/kepler0/"><img src="img/kepler0.png" width="100%" style="border-radius:8px" alt="Kepler0 screenshot" /></a>
+</td>
+<td width="45%" valign="middle">
+
+**🪐 Kepler0**
+Real-time N-body gravitational simulator: every body attracts every other body under Newtonian gravity, integrated frame by frame, with a softening factor to keep close encounters numerically stable instead of ejecting bodies at infinite velocity. Inject mass and watch orbits and chaos emerge live.
+
+`JavaScript` `HTML5 Canvas` `Numerical Simulation`
+
+<p>
+  <a href="https://flaviagaglio.github.io/kepler0/"><img src="https://img.shields.io/badge/Live_Demo-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+  <a href="https://github.com/flaviagaglio/kepler0"><img src="https://img.shields.io/badge/Code-0A3A56?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="middle">
+
+**🎹 Keys**
+Instant key signature finder built on real circle-of-fifths math: pick a tonic, get the exact number and letter names of its sharps or flats, computed algorithmically rather than looked up from a table.
+
+`JavaScript` `Music Theory`
+
+<p>
+  <a href="https://flaviagaglio.github.io/keys/"><img src="https://img.shields.io/badge/Live_Demo-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+  <a href="https://github.com/flaviagaglio/keys"><img src="https://img.shields.io/badge/Code-0A3A56?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
+</p>
+
+</td>
+<td width="55%">
+<a href="https://flaviagaglio.github.io/keys/"><img src="img/keys.png" width="100%" style="border-radius:8px" alt="Keys screenshot" /></a>
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+<a href="https://flaviagaglio.github.io/mode-finder/"><img src="img/mode-finder.png" width="100%" style="border-radius:8px" alt="Mode Finder screenshot" /></a>
+</td>
+<td width="45%" valign="middle">
+
+**🎼 Mode Finder**
+All seven modes of the major scale on any root note, spelled correctly: the algorithm steps through the musical alphabet one letter per degree — never repeating or skipping one — and picks whichever enharmonic spelling needs the fewest accidentals for each mode independently.
+
+`JavaScript` `Music Theory`
+
+<p>
+  <a href="https://flaviagaglio.github.io/mode-finder/"><img src="https://img.shields.io/badge/Live_Demo-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+  <a href="https://github.com/flaviagaglio/mode-finder"><img src="https://img.shields.io/badge/Code-0A3A56?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="middle">
+
+**🔐 Passwords**
+Password generator built on a cryptographically secure RNG (Web Crypto API with rejection sampling to avoid modulo bias, not `Math.random()`), with a strength meter that shows real Shannon entropy in bits instead of an arbitrary score.
+
+`JavaScript` `Web Crypto API`
+
+<p>
+  <a href="https://flaviagaglio.github.io/passwords/"><img src="https://img.shields.io/badge/Live_Demo-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+  <a href="https://github.com/flaviagaglio/passwords"><img src="https://img.shields.io/badge/Code-0A3A56?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
+</p>
+
+</td>
+<td width="55%">
+<a href="https://flaviagaglio.github.io/passwords/"><img src="img/passwords.png" width="100%" style="border-radius:8px" alt="Passwords screenshot" /></a>
+</td>
+</tr>
+
+</table>
+
+<p align="center">
+  <a href="https://flaviagaglio.github.io/projects"><img src="https://img.shields.io/badge/See_all_projects_→-002B42?style=for-the-badge&logoColor=F6AE31" alt="See all projects"/></a>
+</p>
+
+<br/>
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=flaviagaglio&background=002B42&border=0A3A56&ring=F6AE31&fire=F6AE31&currStreakLabel=F6AE31&sideLabels=EDEDED&currStreakNum=EDEDED&sideNums=EDEDED&dates=8892b0&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviagaglio&bg_color=002B42&color=F6AE31&line=F6AE31&point=EDEDED&area_color=0A3A56&title_color=F6AE31&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-light.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
