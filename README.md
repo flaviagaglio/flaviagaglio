@@ -1,58 +1,24 @@
 <div align="center">
 
-<img src="img/header.png" width="100%" alt="Flavia Gaglio — Computer Engineering Graduate, M.Sc. Student AI & Cybersecurity" />
+<img src="img/mega-panel.png" width="100%" alt="Flavia Gaglio — Computer Engineering Graduate, M.Sc. Student AI & Cybersecurity. About: builds machine learning systems and studies how they get attacked, with a focus on biometrics. Education: M.Sc. Artificial Intelligence & Cybersecurity (in progress), B.Eng. Computer Engineering (completed). Skills: Machine Learning, Cybersecurity, Biometrics, Python, C, Java, SQL, TypeScript, Git, UNIX/Linux, Logic Pro, Luna, UA Plugins" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=1100&color=50FF40&background=222623&center=true&vCenter=true&width=680&height=48&lines=%3E+building+things+that+work...;%3E+and+figuring+out+exactly+why+they+might+not." alt="building things that work, and figuring out why they might not" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=1000&color=F6AE31&background=051520&center=true&vCenter=true&width=1152&height=44&lines=%3E+finds+the+exploit.+also+finds+the+key." alt="finds the exploit. also finds the key." />
 
 <br/><br/>
 
-<a href="https://flaviagaglio.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Portfolio"/></a>
+<a href="https://flaviagaglio.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GITHUB-002B42?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/flaviagaglio/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="img/label-projects.png" height="50" alt="04 / Featured Projects" />
 
 </div>
 
 <br/>
-
-<img src="img/label-about.png" height="46" alt="01 / About" />
-
-<br/><br/>
-
-Two things pull at me at the same time: making a system do exactly what it's supposed to, and poking at it until it doesn't. That tension is basically my degree. I'm a Computer Engineering graduate now working toward an M.Sc. in Artificial Intelligence & Cybersecurity, and most of what I build sits at that intersection — machine learning systems, and the security questions that come with putting them in front of real inputs.
-
-Biometrics is where that shows up most: not just training a classifier that works on clean data, but asking what happens when someone tries to fool it. My thesis on vulnerability analysis in biometric systems started that habit, and it hasn't worn off — anti-spoofing, anomaly detection and authentication design are the topics I keep coming back to outside of coursework too.
-
-Outside of a code editor, I'm usually in front of a different kind of interface — guitar, piano, bass or a synth, mixing in Logic Pro. Two of the projects below (`keys`, `mode-finder`) are what happens when those two worlds bleed into each other.
-
-<br/>
-
-<img src="img/label-education.png" height="46" alt="02 / Education" />
-
-<br/><br/>
-
-**M.Sc., Artificial Intelligence & Cybersecurity** — *in progress*
-Machine learning and security research, with biometric anti-spoofing as a running thread.
-
-**B.Eng., Computer Engineering** — *completed*
-Algorithms, systems, databases, networking — and a thesis that turned into a lasting interest in attacking the systems I build.
-
-<br/>
-
-<img src="img/label-skills.png" height="46" alt="03 / Skills" />
-
-<br/><br/>
-
-<img src="img/skills-panel.png" width="100%" alt="AI & Security: Machine Learning, Cybersecurity, Biometrics. Programming: Python, C, Java, SQL, TypeScript, Git, UNIX/Linux. Music Production: Logic Pro, Luna, UA Plugins" />
-
-<br/><br/>
-
-<img src="img/label-projects.png" height="46" alt="04 / Featured Projects" />
-
-<br/><br/>
 
 Full write-ups, architecture notes and honest limits for every project are on the portfolio. These seven are the ones I'd point you to first.
 
@@ -66,8 +32,8 @@ Client-side Music Information Retrieval tool — extracts timbral features (MFCC
 
 `JavaScript` `Web Audio API` `UMAP`
 
-<a href="https://flaviagaglio.github.io/cartographer/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/cartographer"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://flaviagaglio.github.io/cartographer/"><img src="https://img.shields.io/badge/LIVE_DEMO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+<a href="https://github.com/flaviagaglio/cartographer"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 <td width="55%">
@@ -86,8 +52,8 @@ Real-time N-body gravitational simulator: every body attracts every other body u
 
 `JavaScript` `HTML5 Canvas` `Numerical Simulation`
 
-<a href="https://flaviagaglio.github.io/kepler0/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/kepler0"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://flaviagaglio.github.io/kepler0/"><img src="https://img.shields.io/badge/LIVE_DEMO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+<a href="https://github.com/flaviagaglio/kepler0"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 </tr>
@@ -100,7 +66,7 @@ Classifying Controls vs. Infertile subjects from clinical andrology data: 13 tun
 
 `Python` `scikit-learn` `XGBoost` `SHAP`
 
-<a href="https://github.com/flaviagaglio/male-infertility-prediction-ml"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://github.com/flaviagaglio/male-infertility-prediction-ml"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 <td width="55%">
@@ -119,7 +85,7 @@ Fine-tuned Italian BERT for VAD emotion regression (Valence, Arousal, Dominance)
 
 `Python` `PyTorch` `BERT` `NLP`
 
-<a href="https://github.com/flaviagaglio/EmotivITA-BERT-VAD"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://github.com/flaviagaglio/EmotivITA-BERT-VAD"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 </tr>
@@ -132,8 +98,8 @@ Instant key signature finder built on real circle-of-fifths math: pick a tonic, 
 
 `JavaScript` `Music Theory`
 
-<a href="https://flaviagaglio.github.io/keys/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/keys"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://flaviagaglio.github.io/keys/"><img src="https://img.shields.io/badge/LIVE_DEMO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+<a href="https://github.com/flaviagaglio/keys"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 <td width="55%">
@@ -152,8 +118,8 @@ All seven modes of the major scale on any root note, spelled correctly: the algo
 
 `JavaScript` `Music Theory`
 
-<a href="https://flaviagaglio.github.io/mode-finder/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/mode-finder"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://flaviagaglio.github.io/mode-finder/"><img src="https://img.shields.io/badge/LIVE_DEMO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+<a href="https://github.com/flaviagaglio/mode-finder"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 </tr>
@@ -166,8 +132,8 @@ Password generator built on a cryptographically secure RNG (Web Crypto API with 
 
 `JavaScript` `Web Crypto API`
 
-<a href="https://flaviagaglio.github.io/passwords/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4400?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo"/></a>
-<a href="https://github.com/flaviagaglio/passwords"><img src="https://img.shields.io/badge/CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=FF4400" alt="Code"/></a>
+<a href="https://flaviagaglio.github.io/passwords/"><img src="https://img.shields.io/badge/LIVE_DEMO-F6AE31?style=for-the-badge&logoColor=002B42" alt="Live Demo"/></a>
+<a href="https://github.com/flaviagaglio/passwords"><img src="https://img.shields.io/badge/CODE-002B42?style=for-the-badge&logo=github&logoColor=F6AE31" alt="Code"/></a>
 
 </td>
 <td width="55%">
@@ -178,62 +144,51 @@ Password generator built on a cryptographically secure RNG (Web Crypto API with 
 </table>
 
 <p align="center">
-  <a href="https://flaviagaglio.github.io/projects"><img src="https://img.shields.io/badge/SEE_ALL_PROJECTS_→-1a1a1a?style=for-the-badge&logoColor=FF4400" alt="See all projects"/></a>
+  <a href="https://flaviagaglio.github.io/projects"><img src="https://img.shields.io/badge/SEE_ALL_PROJECTS_→-002B42?style=for-the-badge&logoColor=F6AE31" alt="See all projects"/></a>
 </p>
 
 <br/>
-
-<img src="img/label-activity.png" height="46" alt="05 / GitHub Activity" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=flaviagaglio&background=222623&border=1a1a1a&ring=50FF40&fire=FF4400&currStreakLabel=50FF40&sideLabels=cccccc&currStreakNum=50FF40&sideNums=eeeeee&dates=888888&hide_border=false" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviagaglio&bg_color=222623&color=50FF40&line=50FF40&point=F2EFE6&area_color=1a1a1a&title_color=FF4400&hide_border=false&border_color=1a1a1a" alt="GitHub activity graph" width="100%" />
-</p>
-
-<br/>
-
-<img src="img/label-snake.png" height="46" alt="06 / Contribution Snake" />
-
-<br/><br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-light.svg">
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
-<br/>
-
-<img src="img/label-contact.png" height="46" alt="07 / Contact" />
+<img src="img/label-activity.png" height="50" alt="05 / GitHub Activity" />
 
 <br/><br/>
 
-<p align="center">
-  <a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/flaviagaglio/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-<p align="center">
-  <sub><img src="https://komarev.com/ghpvc/?username=flaviagaglio&style=flat-square&color=ff4400" alt="Profile views" /></sub>
-</p>
+<img src="https://streak-stats.demolab.com?user=flaviagaglio&background=051520&border=002B42&ring=F6AE31&fire=F6AE31&currStreakLabel=F6AE31&sideLabels=EFEAE0&currStreakNum=F6AE31&sideNums=EFEAE0&dates=6b7f91&hide_border=false" alt="GitHub streak stats" />
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviagaglio&bg_color=051520&color=F6AE31&line=F6AE31&point=EFEAE0&area_color=002B42&title_color=F6AE31&hide_border=false&border_color=002B42" alt="GitHub activity graph" width="100%" />
+
+<br/><br/>
+
+<img src="img/label-snake.png" height="50" alt="06 / Contribution Snake" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-light.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/flaviagaglio/flaviagaglio/output/snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img src="img/label-contact.png" height="50" alt="07 / Contact" />
+
+<br/><br/>
+
+<a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/flaviagaglio/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<sub><img src="https://komarev.com/ghpvc/?username=flaviagaglio&style=flat-square&color=f6ae31" alt="Profile views" /></sub>
+
+<br/><br/>
 
 <img src="img/footer.png" width="100%" alt="" />
 
-
-<table>
-<tr><td>
-
-PLAIN TABLE BORDER TEST — does this cell get any visible border/grid from GitHub's own default CSS?
-
-</td></tr>
-</table>
+</div>
