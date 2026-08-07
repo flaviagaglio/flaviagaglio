@@ -196,3 +196,6 @@ Password generator built on a cryptographically secure RNG (Web Crypto API with 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B42,100:0A3A56&height=100&section=footer" width="100%" alt="" />
+<table><tr><td style="background-color:#dcd7c8; border:3px solid #1a1a1a; box-shadow: 8px 8px 0 #121315; padding:20px; border-radius:0px; font-family: monospace; color:#1a1a1a;">
+TEST PANEL — border/shadow/bg check
+</td></tr></table>
