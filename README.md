@@ -6,10 +6,6 @@
 
 <br/><br/>
 
-<img src="img/label-contact.png" height="50" alt="05 / Contact" />
-
-<br/><br/>
-
 <a href="mailto:flaviagaglio9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/flavia-gaglio-4a30b0335/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/flaviagaglio"><img src="https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
